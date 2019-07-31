@@ -5,5 +5,5 @@ Es una aplicacionde consola que genera archivo de texto de tablas de multiplicac
 Ejecuten este comando
 
 ....
-nom install
+npm install
 ....
